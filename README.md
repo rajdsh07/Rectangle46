@@ -5,3 +5,9 @@ public int GetPerimeter()
             return ((2*(length + width)));
         }
         
+
+
+public int GetArea()
+        {
+            return ((width * length));
+        }

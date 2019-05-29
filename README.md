@@ -43,3 +43,4 @@ public int GetArea()
             //Assert
             Assert.AreEqual(expectedOutcome, actualOutcome);
         }
+
